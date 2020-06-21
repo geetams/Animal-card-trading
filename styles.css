@@ -1,0 +1,23 @@
+#container {
+  border: 2px solid #111010;
+  padding: 10px;
+  width: 300px;
+  }
+
+#facts {
+  font-style: italic;
+}
+img{
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+li{
+     list-style-type: none;
+   }
+
+.chipmunks-id {
+  border: 1px solid #010101;
+  padding: 8px;
+   ;
+}
